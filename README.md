@@ -1,4 +1,4 @@
-# 🎙️ RGUKT Campus Radio / The News Management System
+# RGUKT Campus Radio / The News Management System
 
 A complete PHP & MySQL based Campus Radio and News Management System specially designed for RGUKT campuses.
 
@@ -19,9 +19,9 @@ Built using PHP, MySQL, Bootstrap, and JavaScript, this project provides a moder
 [RGUKT Campus Radio Live](http://campus-radio.fwh.is/campusradio)
 ---
 
-# 🚀 Features
+#  Features
 
-## 👨‍💼 Admin Panel
+##  Admin Panel
 - Manage Students
 - Manage Assistant Admins
 - Approve/Reject News
@@ -35,7 +35,7 @@ Built using PHP, MySQL, Bootstrap, and JavaScript, this project provides a moder
 
 ---
 
-## 👨‍💻 Assistant Admin Panel
+##  Assistant Admin Panel
 - Manage Students
 - Approve/Reject News
 - Pin Important News
@@ -46,7 +46,7 @@ Built using PHP, MySQL, Bootstrap, and JavaScript, this project provides a moder
 
 ---
 
-## 🎓 Student Panel
+##  Student Panel
 - Student Login/Register
 - Post Campus News(That News have to approved by the Admin/Ass_admin)
 - Upload Images/Videos/Audio
@@ -56,14 +56,14 @@ Built using PHP, MySQL, Bootstrap, and JavaScript, this project provides a moder
 
 ---
 
-## 📂 Media Upload Support
+##  Media Upload Support
 - 🎵 Audio Uploads
 - 🖼️ Image Uploads
 - 🎥 Video Uploads
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Usage |
 |------------|--------|
@@ -97,7 +97,7 @@ campusradio/
 
 
 
-# 🔐 User Roles
+#  User Roles
 
 | Role | Access |
 |------|---------|
@@ -107,7 +107,7 @@ campusradio/
 
 ---
 
-# 🌐 SEO Features
+#  SEO Features
 
 - Sitemap.xml
 - Meta Description
@@ -116,7 +116,7 @@ campusradio/
 
 ---
 
-# 🔒 Security Features
+#  Security Features
 
 - Session Authentication
 - Role-based Access
@@ -125,7 +125,7 @@ campusradio/
 
 ---
 
-# 📦 Future Improvements
+#  Future Improvements
 
 - Android App Integration
 - Live Radio Streaming
@@ -135,16 +135,16 @@ campusradio/
 
 ---
 
-# 👨‍💻 Developer
 
-Developed using PHP & MySQL for educational purposes.
-
----
-
+##  Developed For
+RGUKT Campus Digital Communication System
 
 ---
 
-# ⭐ Support
+
+---
+
+#  Support
 
 If you like this project:
 
